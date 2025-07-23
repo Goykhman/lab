@@ -1,4 +1,4 @@
-MIT License
+MIT License (with Citation Clause)
 
 Copyright (c) 2025 Mikhail Goykhman
 
@@ -9,8 +9,14 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- The above copyright notice and this permission notice shall be included in all
+  copies or substantial portions of the Software.
+
+- If this software or any derivative work is used, modified, or distributed,
+  you must provide proper credit to the original author. This includes:
+  - Mentioning the original author in documentation, README files, or any
+    publication describing work based on this software.
+  - Including a link to the original repository, when applicable.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
